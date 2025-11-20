@@ -1,9 +1,3 @@
-了解です。
-以下に **アプリ全体の使い方説明（英語版）** をひとつの完成した README としてまとめました。
-そのまま ZIP に同梱したり、GitHub・ブログ・配布ページに掲載できます。
-
----
-
 # 📘 **Block Puzzle Solver — User Guide (English Version)**
 
 This tool is a solver for an 8×8 block-puzzle game.
